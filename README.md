@@ -15,13 +15,14 @@ Meu principal objetivo é conquistar uma oportunidade na área de desenvolviment
 ### 📫 Contato
 
 <p align="left">
-    <a href="mailto:tadeuasv13@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&to=tadeuasv13@gmail.com" target="_blank">
         <img 
             alt="email" 
             title="Entre em contato por email" 
             src="https://custom-icon-badges.demolab.com/badge/email-contato-blue?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
+</p>
     <a href="https://www.linkedin.com/in/tadeu-vaz-515936373" target="_blank">
         <img 
             alt="linkedin" 
