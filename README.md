@@ -23,7 +23,7 @@ Meu principal objetivo é conquistar uma oportunidade na área de desenvolviment
         />
     </a>
 
-    <a href="https://www.linkedin.com/in/tadeu-vaz-515936373">
+        <a href="https://www.linkedin.com/in/tadeu-vaz-515936373">
         <img 
             alt="linkedin" 
             title="Meu LinkedIn" 
@@ -31,7 +31,8 @@ Meu principal objetivo é conquistar uma oportunidade na área de desenvolviment
         />
     </a>
 </p>
----
+
+ 
 
 ### 🤖 Linguagens e Tecnologias
 
