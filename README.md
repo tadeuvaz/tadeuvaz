@@ -31,46 +31,48 @@ Estou à disposição para aprender e colaborar em projetos pessoais/profissiona
     </a>
 </p>
 
----
+### 📬 Vamos nos conectar?
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&to=tadeuasv13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tadeu-vaz-515936373" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SEU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
+
+### 💻 Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" title="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" title="CSS3"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git"/>
+  &nbsp;
+  <img src="https://desktop.github.com/images/desktop-icon.svg" width="42" height="42" alt="GitHub Desktop" title="GitHub Desktop"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/lecom" width="42" height="42" alt="Lecom" title="Lecom"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-3178C6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Versionamento-Git%20%7C%20GitHub-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/BPMS-Lecom-008F75?style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  <i>Transformando ideias em soluções através da tecnologia.</i>
+</p>
 
 
