@@ -32,34 +32,129 @@ Estou à disposição para aprender e colaborar em projetos pessoais/profissiona
 </p>
 
 
----
-
-### 💻 Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  &nbsp;
-  <img src="https://desktop.github.com/images/desktop-icon.svg" width="42" height="42"/>
-  &nbsp;
-  
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-3178C6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Versionamento-Git%20%7C%20GitHub-181717?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/BPMS-Lecom-008F75?style=flat-square" />
-</p>
-
----
+👨‍💻 Tadeu Vaz | Desenvolvedor & Tecnologia
 
 <p align="center">
-  <i>Transformando ideias em soluções através da tecnologia.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+evolu%C3%A7%C3%A3o;Desenvolvimento+Web;Automa%C3%A7%C3%A3o+de+Processos;Tecnologia+e+Inova%C3%A7%C3%A3o" alt="Apresentação animada" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/tadeu-vaz-515936373">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:tadeuasv13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+🌐 Desenvolvimento de interfaces e aplicações web.
+
+⚙️ Automação e otimização de processos.
+
+🔄 Versionamento e gerenciamento de projetos com Git e GitHub.
+
+🏢 Modelagem e automação de processos utilizando Lecom BPMS.
+
+📚 Aprimoramento contínuo em programação e novas tecnologias.
+
+Meu objetivo é transformar ideias e necessidades reais em soluções tecnológicas eficientes.
+
+🛠️ Tecnologias e ferramentas
+
+💻 Desenvolvimento Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+🔧 Versionamento e ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://desktop.github.com/images/desktop-icon.svg" width="48" height="48" alt="GitHub Desktop" title="GitHub Desktop"/>
+</p>
+
+⚙️ Automação e processos
+
+<p>
+  <img src="https://img.shields.io/badge/LECOM-BPMS-008F75?style=for-the-badge" alt="Lecom BPMS"/>
+  <img src="https://img.shields.io/badge/Business_Process-Management-2563EB?style=for-the-badge" alt="Business Process Management"/>
+</p>
+
+📂 Projetos em destaque
+
+Aqui estão alguns projetos que fazem parte da minha jornada de desenvolvimento.
+
+🌐 Portfólio Profissional
+
+Apresentação das minhas habilidades, tecnologias e projetos desenvolvidos.
+
+Tecnologias: HTML5, CSS3 e JavaScript.
+
+⚙️ Automação de Processos
+
+Estudos e desenvolvimento de soluções para otimização de processos e atividades operacionais.
+
+Tecnologias: Lecom BPMS e conceitos de automação de processos.
+
+💼 NeyJuri
+
+Projeto voltado à apresentação de uma solução digital com foco em organização e identidade visual profissional.
+
+Tecnologias: Em desenvolvimento.
+
+Adicione os links dos repositórios correspondentes aos projetos quando estiverem publicados.
+
+📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+🔥 Sequência de contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true" />
+</p>
+
+🎯 Atualmente estudando
+
+HTML5 e CSS3
+
+JavaScript
+
+Git e GitHub
+
+GitHub Desktop
+
+Lecom BPMS
+
+Integração e consumo de APIs REST
+
+Testes automatizados
+
+📬 Vamos nos conectar?
+
+<p align="center">
+  <a href="mailto:tadeuasv13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Entre_em_contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tadeu-vaz-515936373">
+    <img src="https://img.shields.io/badge/LinkedIn-Meu_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"A tecnologia transforma ideias em possibilidades. O aprendizado transforma possibilidades em resultados."</i>
+</p>
+
+<p align="center">
+  ⭐ Obrigado por visitar meu perfil!
 </p>
 
 
