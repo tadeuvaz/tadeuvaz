@@ -31,8 +31,6 @@ Estou à disposição para aprender e colaborar em projetos pessoais/profissiona
     </a>
 </p>
 
-### 📬 Vamos nos conectar?
-
 
 ---
 
