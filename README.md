@@ -2,13 +2,13 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Tadeu Augusto Silva Vaz, tenho 24 anos e sou natural de Minas Gerais. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha carreira na área de tecnologia com foco em desenvolvimento de software.
+Me chamo Tadeu Augusto Silva Vaz, tenho 24 anos e moro em Minas Gerais no cidade de Formiga. Comecei na faculdade de ADS (Análise e Desenvolvimento de Sistemas) em julho de 2025, hoje dia 24/11/2026 o dia que estou melhorando minha apresentação no GitHUb, estou indo para o terceiro período do curso. Consegui um estágio no dia 01/07/2026, no Sicoobcredifor uma cooperativa de credito, onde atuo no setor de Performance Corporativa na área de Gestão de Processos, utilizando a plataforma Lecom e linguagem JavaScript.
 
-Sou apaixonado por tecnologia e tenho uma grande curiosidade em entender como as coisas funcionam, o que me motiva a estudar constantemente e buscar evoluir minhas habilidades na prática. Venho me dedicando ao aprendizado contínuo por meio da graduação e de cursos complementares, desenvolvendo projetos e aprimorando meus conhecimentos em programação.
+A Plataforma Lecom é uma ferramenta brasileira de automação e gestão inteligente de processos (BPM) que transforma fluxos de trabalhos manuais e burocráticos em operações digitais organizadas.
+Embora a ferramenta siga o conceito low-code/no-code para a modelagem de fluxos, nos utlizamos a linguagem JavaScript(js) para criar regras de negócio dinâmicas e realizar integrações assíncronas.
+Minha experiência nas áreas administrativas, operacional e de logística contribuiuram para desenvolver organização, responsabilidade, proatividade e trabalho em equipe — competências que levo comigo para a tecnologia.
+Estou à disposição para aprender e colaborar em projetos pessoais/profissionais onde posso colocar minhas habilidades em prática.
 
-Possuo experiência profissional nas áreas administrativa, logística e operacional, atuando com organização de processos, controle de materiais, atendimento e suporte. Essas experiências me proporcionaram habilidades importantes como responsabilidade, proatividade, atenção aos detalhes e trabalho em equipe, que hoje aplico também na área de tecnologia.
-
-Meu principal objetivo é conquistar uma oportunidade na área de desenvolvimento, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir constantemente como desenvolvedor, contribuindo com soluções e crescimento da equipe.
 
 ---
 
