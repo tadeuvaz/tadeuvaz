@@ -33,17 +33,6 @@ Estou à disposição para aprender e colaborar em projetos pessoais/profissiona
 
 ### 📬 Vamos nos conectar?
 
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&to=tadeuasv13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tadeu-vaz-515936373" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/SEU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
@@ -60,7 +49,7 @@ Estou à disposição para aprender e colaborar em projetos pessoais/profissiona
   &nbsp;
   <img src="https://desktop.github.com/images/desktop-icon.svg" width="42" height="42" alt="GitHub Desktop" title="GitHub Desktop"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/lecom" width="42" height="42" alt="Lecom" title="Lecom"/>
+  
 </p>
 
 <p align="left">
